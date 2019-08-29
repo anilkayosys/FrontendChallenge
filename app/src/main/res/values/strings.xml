@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    //anagram
+    <string name="anagram_first_string">Please Enter First String</string>
+    <string name="anagram_second_string">Please Enter Second String</string>
+    <string name="anagram_check_btn">Check Anagram</string>
+    <string name="anagram_anagram">The two strings are anagram of each other</string>
+    <string name="anagram_not_anagram">The two strings are not anagram of each other</string>
+
+
+    //fibonacci number
+    <string name="fibonacci_recursive_number_of_elements">enter recursive number of elements</string>
+    <string name="fibonacci_iterative_number_of_elements">enter iterative number of elements</string>
+    <string name="fibonacci_calculate_btn">Calculate</string>
+    <string name="fibonacci_recursive_approch">Recursive Approch</string>
+    <string name="fibonacci_iterative_approch">Iterative Approch</string>
+
+</resources>
